@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kamjacreact.github.io/static/css/main.50d58f8d.css",
+    "main.js": "/kamjacreact.github.io/static/js/main.85665050.js",
+    "static/js/787.18fa16a3.chunk.js": "/kamjacreact.github.io/static/js/787.18fa16a3.chunk.js",
+    "static/media/fondo.jpg": "/kamjacreact.github.io/static/media/fondo.2d4e86585134b2ee8bdf.jpg",
+    "static/media/Logo_dasaga_white.png": "/kamjacreact.github.io/static/media/Logo_dasaga_white.a6720f012db5ebc01225.png",
+    "index.html": "/kamjacreact.github.io/index.html",
+    "main.50d58f8d.css.map": "/kamjacreact.github.io/static/css/main.50d58f8d.css.map",
+    "main.85665050.js.map": "/kamjacreact.github.io/static/js/main.85665050.js.map",
+    "787.18fa16a3.chunk.js.map": "/kamjacreact.github.io/static/js/787.18fa16a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d58f8d.css",
+    "static/js/main.85665050.js"
+  ]
+}
